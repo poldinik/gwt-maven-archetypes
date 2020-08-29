@@ -23,10 +23,15 @@ you can clone and install the project locally:
 You'll then use the `mvn archetype:generate` command from above, except for the
 `-DarchetypeVersion` argument which you'll replace with `HEAD-SNAPSHOT`.
 
-    mvn archetype:generate \
-       -DarchetypeGroupId=net.ltgt.gwt.archetypes \
-       -DarchetypeVersion=HEAD-SNAPSHOT \
-       -DarchetypeArtifactId=modular-webapp
+       mvn archetype:generate \
+           -DarchetypeGroupId=studio.volare.gwt.archetypes \
+           -DarchetypeVersion=HEAD-SNAPSHOT \
+           -DarchetypeArtifactId=modular-webapp \
+           -DgroupId=studio.volare.$bs \
+           -DartifactId=$bs \
+           -Dpackage=studio.volare.$bs \
+           -Dmodule-short-name=app \
+           -Dversion=1.0.0 
 
 
 ### Start the development mode

@@ -17,14 +17,14 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>net.ltgt.gwt.archetypes</groupId>
+  <groupId>studio.volare.gwt.archetypes</groupId>
   <artifactId>gwt-maven-archetypes</artifactId>
   <version>HEAD-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <url>https://github.com/tbroyer/gwt-maven-archetypes</url>
 
-  <inceptionYear>2012</inceptionYear>
+  <inceptionYear>2020</inceptionYear>
   <licenses>
     <license>
       <name>Apache 2.0</name>
@@ -34,21 +34,10 @@
 
   <developers>
     <developer>
-      <name>Thomas Broyer</name>
-      <email>t.broyer@ltgt.net</email>
+      <name>Lorenzo Vannucchi</name>
+      <email>lorenzo.vannucchi1993@gmail.com</email>
     </developer>
   </developers>
-  <contributors>
-    <contributor>
-      <name>Alexandre Ardhuin</name>
-      <email>alexandre.ardhuin@gmail.com</email>
-    </contributor>
-    <contributor>
-      <name>Yannis Gonianakis</name>
-      <email>jgonian@gmail.com</email>
-    </contributor>
-  </contributors>
-
   <modules>
     <module>modular-webapp</module>
     <module>modular-requestfactory</module>

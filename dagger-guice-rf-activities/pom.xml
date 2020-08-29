@@ -18,7 +18,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
-    <groupId>net.ltgt.gwt.archetypes</groupId>
+    <groupId>studio.volare.gwt.archetypes</groupId>
     <artifactId>gwt-maven-archetypes</artifactId>
     <version>HEAD-SNAPSHOT</version>
   </parent>
