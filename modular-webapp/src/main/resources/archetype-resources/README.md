@@ -1,0 +1,1 @@
+# ${artifactId} GWT project

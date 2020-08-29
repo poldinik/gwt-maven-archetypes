@@ -5,35 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0e33e9b-d440-4f5e-b489-103e3de5f2ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/modular-requestfactory/src/main/resources/archetype-resources/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modular-requestfactory/src/main/resources/archetype-resources/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modular-requestfactory/src/main/resources/archetype-resources/repo.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modular-requestfactory/src/main/resources/archetype-resources/run.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources/repo.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources/run.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dagger-guice-rf-activities/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dagger-guice-rf-activities/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modular-requestfactory/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/modular-requestfactory/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modular-webapp/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/modular-webapp/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources/__rootArtifactId__-client/src/main/java/__module__.java" beforeDir="false" afterPath="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources/__rootArtifactId__-client/src/main/java/__module__.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modular-webapp/src/test/resources/projects/basic-webapp/archetype.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modular-webapp/src/test/resources/projects/basic-webapp/goal.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modular-webapp/src/test/resources/projects/basic-webapp/reference/basic-webapp-client/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modular-webapp/src/test/resources/projects/basic-webapp/reference/basic-webapp-client/src/main/java/it/pkg/Basic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modular-webapp/src/test/resources/projects/basic-webapp/reference/basic-webapp-client/src/main/module.gwt.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modular-webapp/src/test/resources/projects/basic-webapp/reference/basic-webapp-server/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modular-webapp/src/test/resources/projects/basic-webapp/reference/basic-webapp-server/src/main/java/it/pkg/GreetingServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modular-webapp/src/test/resources/projects/basic-webapp/reference/basic-webapp-server/src/main/jettyconf/context.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modular-webapp/src/test/resources/projects/basic-webapp/reference/basic-webapp-server/src/main/tomcatconf/context.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modular-webapp/src/test/resources/projects/basic-webapp/reference/basic-webapp-server/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modular-webapp/src/test/resources/projects/basic-webapp/reference/basic-webapp-server/src/main/webapp/basic-webapp.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modular-webapp/src/test/resources/projects/basic-webapp/reference/basic-webapp-server/src/main/webapp/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modular-webapp/src/test/resources/projects/basic-webapp/reference/basic-webapp-server/src/main/webapp/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modular-webapp/src/test/resources/projects/basic-webapp/reference/basic-webapp-shared/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modular-webapp/src/test/resources/projects/basic-webapp/reference/basic-webapp-shared/src/main/java/it/pkg/FieldVerifier.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modular-webapp/src/test/resources/projects/basic-webapp/reference/basic-webapp-shared/src/main/java/it/pkg/GreetingResponse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modular-webapp/src/test/resources/projects/basic-webapp/reference/basic-webapp-shared/src/main/java/it/pkg/GreetingService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modular-webapp/src/test/resources/projects/basic-webapp/reference/basic-webapp-shared/src/main/java/it/pkg/GreetingServiceAsync.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modular-webapp/src/test/resources/projects/basic-webapp/reference/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modular-webapp/src/main/resources/META-INF/maven/archetype-metadata.xml" beforeDir="false" afterPath="$PROJECT_DIR$/modular-webapp/src/main/resources/META-INF/maven/archetype-metadata.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources/__rootArtifactId__-server/src/main/webapp/__rootArtifactId__.css" beforeDir="false" afterPath="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources/__rootArtifactId__-server/src/main/webapp/__rootArtifactId__.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +39,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/modular-requestfactory/src/main/resources/archetype-resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -70,6 +48,12 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.excludes" />
     <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources" />
+      <recent name="$PROJECT_DIR$/modular-requestfactory/src/main/resources/archetype-resources" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
@@ -92,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598693529778</updated>
-      <workItem from="1598693531214" duration="2808000" />
+      <workItem from="1598693531214" duration="4153000" />
     </task>
     <servers />
   </component>

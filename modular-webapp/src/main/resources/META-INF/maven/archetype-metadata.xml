@@ -26,6 +26,17 @@
       <defaultValue>${module.toLowerCase()}</defaultValue>
     </requiredProperty>
   </requiredProperties>
+  <fileSets>
+    <fileSet filtered="true" packaged="false" encoding="UTF-8">
+      <directory/>
+      <includes>
+        <include>.gitignore</include>
+        <include>README.md</include>
+        <include>repo.sh</include>
+        <include>run.sh</include>
+      </includes>
+    </fileSet>
+  </fileSets>
   <modules>
     <module id="${rootArtifactId}-client" dir="__rootArtifactId__-client" name="${rootArtifactId}-client">
       <fileSets>
