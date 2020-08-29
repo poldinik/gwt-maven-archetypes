@@ -37,6 +37,9 @@
         <inherited>false</inherited>
         <configuration>
           <launcherDir>${project.build.directory}/gwt/launcherDir</launcherDir>
+          <codeserverArgs>
+            <arg>-generateJsInteropExports</arg>
+          </codeserverArgs>
         </configuration>
       </plugin>
     </plugins>
@@ -64,6 +67,12 @@
           <configuration>
             <sourceLevel>1.8</sourceLevel>
             <failOnError>true</failOnError>
+            <compilerArgs>
+              <arg>-generateJsInteropExports</arg>
+            </compilerArgs>
+            <jvmArgs>
+              <arg>-javaagent:${settings.localRepository}/org/projectlombok/lombok/1.18.12/lombok-1.18.12.jar=ECJ</arg>
+            </jvmArgs>
           </configuration>
         </plugin>
         <plugin>

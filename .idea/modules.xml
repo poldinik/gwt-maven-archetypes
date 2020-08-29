@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dagger-guice-rf-activities/dagger-guice-rf-activities.iml" filepath="$PROJECT_DIR$/dagger-guice-rf-activities/dagger-guice-rf-activities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gwt-maven-archetypes.iml" filepath="$PROJECT_DIR$/gwt-maven-archetypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modular-requestfactory/modular-requestfactory.iml" filepath="$PROJECT_DIR$/modular-requestfactory/modular-requestfactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modular-webapp/modular-webapp.iml" filepath="$PROJECT_DIR$/modular-webapp/modular-webapp.iml" />
+    </modules>
+  </component>
+</project>
