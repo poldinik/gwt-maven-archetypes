@@ -5,18 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0e33e9b-d440-4f5e-b489-103e3de5f2ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources/repo.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources/run.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources/.gitlab-ci.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources/__rootArtifactId__-server/src/main/webapp/WEB-INF/jboss-web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources/__rootArtifactId__-server/src/main/webapp/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources/gwt.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources/server.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modular-webapp/src/main/resources/META-INF/maven/archetype-metadata.xml" beforeDir="false" afterPath="$PROJECT_DIR$/modular-webapp/src/main/resources/META-INF/maven/archetype-metadata.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources/__rootArtifactId__-client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources/__rootArtifactId__-client/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources/__rootArtifactId__-client/src/main/module.gwt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources/__rootArtifactId__-client/src/main/module.gwt.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources/__rootArtifactId__-server/src/main/webapp/__rootArtifactId__.css" beforeDir="false" afterPath="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources/__rootArtifactId__-server/src/main/webapp/__rootArtifactId__.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources/__rootArtifactId__-server/src/main/webapp/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources/__rootArtifactId__-server/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources/__rootArtifactId__-server/src/main/webapp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources/run.sh" beforeDir="false" afterPath="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources/dev.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -40,6 +53,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -52,17 +66,20 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources" />
+      <recent name="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources/__rootArtifactId__-server/src/main/webapp/WEB-INF" />
       <recent name="$PROJECT_DIR$/modular-requestfactory/src/main/resources/archetype-resources" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -76,7 +93,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598693529778</updated>
-      <workItem from="1598693531214" duration="4153000" />
+      <workItem from="1598693531214" duration="4574000" />
+      <workItem from="1598700891877" duration="2283000" />
     </task>
     <servers />
   </component>

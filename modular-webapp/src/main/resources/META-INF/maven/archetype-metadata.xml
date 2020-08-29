@@ -33,7 +33,11 @@
         <include>.gitignore</include>
         <include>README.md</include>
         <include>repo.sh</include>
-        <include>run.sh</include>
+        <include>dev.sh</include>
+        <include>Dockerfile</include>
+        <include>.gitlab-ci.yml</include>
+        <include>server.sh</include>
+        <include>gwt.sh</include>
       </includes>
     </fileSet>
   </fileSets>
