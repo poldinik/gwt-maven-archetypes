@@ -5,19 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0e33e9b-d440-4f5e-b489-103e3de5f2ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources/.gitlab-ci.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources/__rootArtifactId__-server/src/main/webapp/WEB-INF/jboss-web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources/__rootArtifactId__-server/src/main/webapp/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources/gwt.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources/server.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modular-webapp/src/main/resources/META-INF/maven/archetype-metadata.xml" beforeDir="false" afterPath="$PROJECT_DIR$/modular-webapp/src/main/resources/META-INF/maven/archetype-metadata.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources/__rootArtifactId__-client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources/__rootArtifactId__-client/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources/__rootArtifactId__-client/src/main/module.gwt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources/__rootArtifactId__-client/src/main/module.gwt.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources/__rootArtifactId__-server/src/main/webapp/__rootArtifactId__.css" beforeDir="false" afterPath="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources/__rootArtifactId__-server/src/main/webapp/__rootArtifactId__.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources/__rootArtifactId__-server/src/main/webapp/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources/__rootArtifactId__-server/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources/__rootArtifactId__-server/src/main/webapp/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources/run.sh" beforeDir="false" afterPath="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources/dev.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources/__rootArtifactId__-client/src/main/java/utility/Console.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources/__rootArtifactId__-client/src/main/java/utility/DateConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources/__rootArtifactId__-client/src/main/java/utility/JSON.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources/__rootArtifactId__-client/src/main/java/utility/UUID.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources/__rootArtifactId__-client/src/main/java/utility/Utility.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +56,9 @@
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources/__rootArtifactId__-client/src/main/java/utility" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources" />
       <recent name="$PROJECT_DIR$/modular-webapp/src/main/resources/archetype-resources/__rootArtifactId__-server/src/main/webapp/WEB-INF" />
@@ -94,11 +89,17 @@
       <option name="presentableId" value="Default" />
       <updated>1598693529778</updated>
       <workItem from="1598693531214" duration="4574000" />
-      <workItem from="1598700891877" duration="2283000" />
+      <workItem from="1598700891877" duration="5167000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="562" y="345" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598708080693">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="562" y="345" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1598708080693" />
   </component>
 </project>
